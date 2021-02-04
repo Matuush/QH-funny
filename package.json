@@ -1,0 +1,27 @@
+{
+  "name": "qh-funny",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev ./index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matuush/QH-funny.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matuush/QH-funny/issues"
+  },
+  "homepage": "https://github.com/Matuush/QH-funny#readme",
+  "dependencies": {
+    "@types/node": "^14.14.25",
+    "colors": "^1.4.0",
+    "discord.js": "^12.5.1",
+    "ts-node-dev": "^1.1.1",
+    "typescript": "^4.1.3"
+  }
+}
