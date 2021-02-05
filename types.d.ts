@@ -1,5 +1,3 @@
-import { AnyARecord } from "dns";
-
 export interface Sensitive{
     token: string;
     userIDs: Array<string>;
